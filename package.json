@@ -1,0 +1,26 @@
+{
+  "name": "engineers-clone",
+  "version": "1.0.0",
+  "description": "a clone of engineers.my website for learning purpose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aurelius0523/engineers-clone.git"
+  },
+  "keywords": [
+    "[\"html5\"",
+    "\"css3\"",
+    "\"es6\"",
+    "\"ecma2016\"",
+    "\"engineers-clone\"]"
+  ],
+  "author": "aurelius0523",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aurelius0523/engineers-clone/issues"
+  },
+  "homepage": "https://github.com/aurelius0523/engineers-clone#readme"
+}
